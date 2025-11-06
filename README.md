@@ -2,12 +2,12 @@
 
 ---
 
-![](https://komarev.com/ghpvc/?username=andri-devoloper&color=fb4362)
+![](https://komarev.com/ghpvc/?username=andri-creative&color=fb4362)
 
 
 <p align="center"><img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/></p>
 
-<p align="center"><img src="https://komarev.com/ghpvc/?username=andri-devoloper&style=flat-square&color=blue" alt=""></p>
+<p align="center"><img src="https://komarev.com/ghpvc/?username=andri-creative&style=flat-square&color=blue" alt=""></p>
 
 ### :woman_technologist: &nbsp;About Me :
 
@@ -51,10 +51,10 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ---
 
 ### 🔥 &nbsp; My Stats :
-[![GitHub Streak](https://nirzak-streak-stats.vercel.app/?user=andri-devoloper&theme=dark&hide_border=false&theme=dark&background=000000)](https://git.io/streak-stats)
+[![GitHub Streak](https://nirzak-streak-stats.vercel.app/?user=andri-creative&theme=dark&hide_border=false&theme=dark&background=000000)](https://git.io/streak-stats)
 
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=andri-devoloper&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=andri-creative&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
 
 ---
 
