@@ -146,7 +146,7 @@ If you find my projects useful, consider supporting my work:
 
 ### 😂 Random Dev Meme
 
-<img src='https://randommeme-five.vercel.app/' style="height: 400px;"/>
+<img src='https://media.giphy.com/media/l0HlBO7eyXzSZkJri/giphy.gif' width="360" />
 
 ---
 
