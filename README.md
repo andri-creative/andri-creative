@@ -73,16 +73,15 @@ const andri = {
 ## 📊 GitHub Statistics
 
 <div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=andri-creative&show_icons=true&theme=radical&hide_border=true" height="170" alt="GitHub Stats"/>
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=andri-creative&layout=compact&theme=radical&hide_border=true" height="170" alt="Top Languages"/>
-
+  <a href="https://github.com/andri-creative">
+    <img height="180em" src="https://github-readme-stats-fast.vercel.app/api?username=andri-creative&show_icons=true&theme=radical"/>
+    <img height="180em" src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=andri-creative&layout=compact&theme=radical"/>
+  </a>
 </div>
 
 <div align="center">
 
-![GitHub Streak](https://streak-stats.demolab.com/?user=andri-creative&theme=radical&hide_border=true)
+![GitHub Stats](https://github-readme-stats-fast.vercel.app/api/streak?username=andri-creative&theme=radical)
 
 </div>
 
